@@ -1,0 +1,5 @@
+body.dark { color-scheme: dark; --ink:#e1ece8; --muted:#9aadaa; --brand:#64b9a1; --brand-dark:#102a2e; --brand-soft:#1d3936; --surface:#182b2d; --canvas:#102022; --line:#2a4141; --shadow:0 12px 32px rgba(0,0,0,.2); }
+body.dark .site-header { background:rgba(20,39,40,.95); } body.dark .brand,body.dark .field label { color:var(--ink); }
+body.dark th { background:#203738; color:#b5c5c2; } body.dark .input,body.dark .select,body.dark .textarea { border-color:#385150; }
+body.dark .section-muted,body.dark .auth-page { background:#142829; } body.dark .category-card,body.dark .book-card { background:var(--surface); }
+body.dark .detail-copy p { color:#c4d0cc; } body.dark .nav-links.open { background:var(--surface); }
